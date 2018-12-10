@@ -1,5 +1,5 @@
 <?php
-    include './pokemon7.php';
+    include_once './pokemon7.php';
     
     class Carapuce extends Pokemon
     {
