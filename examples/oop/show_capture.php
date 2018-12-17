@@ -10,8 +10,8 @@
     $carapuce = new Carapuce(5);
     $bulbizarre = new Pokemon('Bulbizarre', 70, 70, 5, 'herbe', 15);
 
-    $carapuce->attack($bulbizarre);
-    $carapuce->attack($bulbizarre);
+    //$carapuce->attack($bulbizarre);
+    //$carapuce->attack($bulbizarre);
     $carapuce->attack($bulbizarre);
 
     $catch_attempt = $pokeball->catch($bulbizarre);
