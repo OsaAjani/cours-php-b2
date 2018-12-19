@@ -26,8 +26,8 @@
     $iteration = 100000;
     for ($i = 0 ; $i < $iteration ; $i++)
     {
-        $carapuce = new Carapuce(100);
-        $salameche = new Salameche(6);
+        $carapuce = new Carapuce(50);
+        $salameche = new Salameche(50);
 
         //Create our bag
         $bag = [];

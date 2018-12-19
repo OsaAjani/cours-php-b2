@@ -74,12 +74,7 @@
 
 
         //Check if we are dead or we kill enemy
-        if ($carapuce->is_dead())
-        {
-            $end = true;
-        }
-        
-        if ($salameche->is_dead())
+        if ($carapuce->is_dead() || $salameche->is_dead())
         {
             $end = true;
         }

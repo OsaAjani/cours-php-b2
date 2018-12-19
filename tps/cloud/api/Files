@@ -1,0 +1,15 @@
+file
+----------
+id
+user_id
+name
+uid
+public_uid
+
+
+user
+----------
+id
+email
+password
+admin
