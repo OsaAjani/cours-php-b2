@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Fortnite Random Generator</title>
+        <title>Cloud Storage</title>
         <style>
             table {
                 border-collapse: collapse;
