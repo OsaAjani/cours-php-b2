@@ -24,8 +24,6 @@
         $expire = new DateTime();
         $expire->add(new DateInterval('PT01H'));
         
-        var_dump($expire);
-
         insert_token($pdo, $user['id'], $token, $expire);
 
         exit(); 
